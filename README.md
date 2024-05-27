@@ -1,10 +1,26 @@
 ## Hi there 👋
+<p align="left">
+  <a href="https://github.com/MacroPower/MacroPower">
+    <img src="https://komarev.com/ghpvc/?username=EliotDeneux" alt="page views" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on a enzyme-substrate specificity classifier
-- 🌱 I’m currently learning cool plant biology and bioinformatics techniques
-- 👀 I’m interested in machine learning, computational biology, and climate modeling
+<br>
+
+<!--
+<a href="#dereknguyen269-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=EliotDeneux&show_icons=true" alt="dereknguyen269" align="right" />
+</a>
+-->
+
+- 🏠 I'm currently living in Ede, Netherlands.
+- 💻 I'm currently working as a Research Intern at the Wageningen University & Research.
+- 🔭 I’m currently working on a enzyme-substrate specificity classifier.
+- 🌱 I’m currently learning cool plant biology and bioinformatics techniques.
+- 👀 I’m interested in machine learning, computational biology, and climate modeling.
 - 📫 How to reach me : eliot.deneux@polytechnique.edu or <a href="https://www.linkedin.com/in/eliot-deneux-172311255/">LinkedIn</a>
 
+<br>
 
 <h2 align="left" id="macropower-tech">Favorite Tech 🚀</h2>
 
