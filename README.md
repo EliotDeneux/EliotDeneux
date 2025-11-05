@@ -9,12 +9,12 @@
 
 
 
-- 🏠 I'm currently living in Ede, Netherlands.
-- 💻 I'm currently working as a Research Intern at the Wageningen University & Research.
-- 🔭 I’m currently working on a enzyme-substrate specificity classifier.
-- 🌱 I’m currently learning cool plant biology and bioinformatics techniques.
-- 👀 I’m interested in machine learning, computational biology, and climate modeling.
-- 📫 How to reach me : eliot.deneux@polytechnique.edu or <a href="https://www.linkedin.com/in/eliot-deneux-172311255/">LinkedIn</a>
+- 🏠 I live in Paris, France.
+- 💻 I'm currently studying in the Mathematics for Life Sciences master at Université Paris-Saclay.
+- 🔭 I’m currently working on a CTMC model used for a biology development problem.
+<!-- - 🌱 I’m currently learning cool plant biology and bioinformatics techniques. -->
+- 👀 I’m interested in machine learning, computational biology, and maths for health and climate modeling.
+- 📫 How to reach me : eliot.deneux@gmail.com or <a href="https://www.linkedin.com/in/eliot-deneux-172311255/">LinkedIn</a>
 
 <br>
 <!--
