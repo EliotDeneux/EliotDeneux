@@ -12,7 +12,7 @@
 - 🏠 I live in Paris, France.
 - 💻 I'm currently studying in the Mathematics for Life Sciences master at Université Paris-Saclay.
 - 🔭 I’m currently working on a CTMC model used for a biology development problem.
-<!-- - 🌱 I’m currently learning cool plant biology and bioinformatics techniques. -->
+- 🌱 I’m currently learning cool Natural Language Processing techniques for neurological data and the backbone of flow cytometry analysis.
 - 👀 I’m interested in machine learning, computational biology, and maths for health and climate modeling.
 - 📫 How to reach me : eliot.deneux@gmail.com or <a href="https://www.linkedin.com/in/eliot-deneux-172311255/">LinkedIn</a>
 
@@ -40,40 +40,70 @@
 
 <h2 align="left" id="macropower-tech">Favorite Tech 🚀</h2>
 
- Tools, languages, and other things that I like to work with.
-
+Tools, languages, and other things that I like to work with.
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://ocaml.org/_/MWIyY2ZmMWM5YzdkYWNmYWI4NGQ0MDBjOGFiZTYxOTg/ocaml_org_social_media.png" width="48" height="48" alt="OCaml" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" width="48" height="48" alt="OCaml" />
       </a>
       <br>OCaml
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" width="58" height="48" alt="R" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R" />
       </a>
       <br>R
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="78" height="48" alt="PHP" />
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="78" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" width="88" height="48" alt="Docker" />
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
+      </a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+      </a>
+      <br>Jupyter
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" />
+      </a>
+      <br>LaTeX
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://core.alaimolabs.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUJ3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0f59f6c3af4e2263fcb66ab1d9b38715623304ec/claude-mascot.png" width="48" height="48" alt="Claude Code" />
+      </a>
+      <br>Claude Code
     </td>
   </tr>
 </table>
